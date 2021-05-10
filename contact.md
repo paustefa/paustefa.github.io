@@ -9,8 +9,8 @@ is_contact: true
 
 ### Department Address
 
-Sciences Po - Département d'économie,
+Sciences Po - Department of Economics
 
-28 Rue des Saints-Pères,
+28 Rue des Saints-Pères
 
-75007, Paris, France
+75007 Paris, France
