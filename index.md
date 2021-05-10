@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Logo](/images/logo.jpg)
+<img class="profile-picture" src="/images/logo.jpg">
 
 Hi, welcome to my website! 
 
