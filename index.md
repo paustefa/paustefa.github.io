@@ -16,7 +16,7 @@ Here is my [CV](CV_Pauly.pdf).
 
 ### Papers
 
-- **The diffusion of knowledge: Evidence from the Jet Age**, with [Fernando Stipanicic](https://fernandostipanicic.github.io/)
+- **The Diffusion of Knowledge: Evidence from the Jet Age**, with [Fernando Stipanicic](https://fernandostipanicic.github.io/)
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
