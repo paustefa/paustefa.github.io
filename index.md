@@ -17,7 +17,7 @@ Here is my [CV](CV_Pauly.pdf).
 
 ### Papers
 
-"**The diffusion of knowledge: Evidence from the Jet Age**" (2020), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)
+- **The diffusion of knowledge: Evidence from the Jet Age** (2020), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -42,7 +42,7 @@ which it does not have it.
     </details>
 
 
-"**Creation and Diffusion of Knowledge in the Multinational Firm**", with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/) - [Click here](Paper_Taxation.pdf).
+- **Creation and Diffusion of Knowledge in the Multinational Firm**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -61,8 +61,9 @@ cross-border collaboration, more within-firm citations, and greater inventor mob
 
 ### Work in Progress
 
-"**Trading under Uncertainty: Evidence from Myanmar's Ethnic Conflicts**"
-"**The Gender Gap in Innovation**", with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
+- **Trading under Uncertainty: Evidence from Myanmar's Ethnic Conflicts**
+
+- **The Gender Gap in Innovation**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
 &nbsp;
 
