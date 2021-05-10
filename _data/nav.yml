@@ -1,0 +1,8 @@
+- name: "Contact"
+  link: "contact"
+
+- name: "CV"
+  link: "CV_Dalvit.pdf"
+
+- name: "About"
+  link: "https://nicolodalvit.github.io"
