@@ -62,6 +62,17 @@ cross-border collaboration, more within-firm citations, and greater inventor mob
 
 ## Policy Work
 
+- **EBRD Transition Report 2019-2020, Chapter 3: Firm-level Governance**, with [Cagatay Bircan](http://cagataybircan.com/), Gian  Piero  Cigna  and  Pavle Djuric. [Click here](https://2019.tr-ebrd.com/firm-level-governance/)
+
+- **Coping with Covid-19** (a series of four policy briefs), with Ettore Recchi, Emanuele Ferragina, Emily Helmeid, Mirna Safi, Nicolas Sauger and Jen Schradie. [Overview Page](https://www.sciencespo.fr/osc/en/node/2232.html)
+
+
+### Non-Econ Research
+
+- **The “Eye of the Hurricane” Paradox: An Unexpected and Unequal Rise of Well-Being During the Covid-19 Lockdown in France**, with Ettore Recchi, Emanuele Ferragina, Emily Helmeid, Mirna Safi, Nicolas Sauger and Jen Schradie. [Journal Page](https://www.sciencedirect.com/science/article/pii/S0276562420300445?via%3Dihub)
+
+*Research in Social Stratification and Mobility. Vol. 68, August 2020*
+
 &nbsp;
 
 
