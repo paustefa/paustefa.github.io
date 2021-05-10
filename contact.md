@@ -3,8 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: ndalvit@worldbank.org
-* Email: nicolo.dalvit@gmail.com
+* Email: firstname.lastname@sciencespo.fr
 
 ---
 
