@@ -2,9 +2,8 @@
 layout: default
 ---
 
-## About Me
 
-[comment]: <>  (<img class="profile-picture" src="logo.jpg">)
+<img class="profile-picture" src="logo.jpg">
 
 Hi, welcome to my website! 
 
@@ -16,74 +15,56 @@ Here is my [CV](CV_Pauly.pdf).
 
 ## Research
 
-### Research Papers
+### Papers
 
-1. "**Aggregate Uncertainty and the Micro-Dynamics of Firms.**" (2020). [Click here](Paper_Dynamics.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3591987)]
-
-    <details><summary> <i>Abstract</i> </summary>
-    <p align="justify">
-Using firm level micro-data, I find evidence that firms with lower growth prospects are more sensitive to aggregate shocks. I interpret these findings using a model of demand accumulation and endogenous entry and exit decisions, which I then estimate on French data. The resulting cyclical dynamics of firms provide an explanation for the observed counter-cyclical dispersion in firms' growth rates. They suggest that cyclical dispersion is the result of a pre-existing and persistent characteristic of the firm and caution against its use as a proxy for time-varying uncertainty. The estimated negative correlation between a firm's sensitivity to aggregate shocks and its expected future growth rate is shown to have important consequences for the cyclical characteristics of entering and exiting firms. The quantitative model suggests that this compositional effect is sizeable and equivalent to around 10.5% of the drop in aggregate employment between 2008 and 2009.
-    </p>
-    </details>
-
-2. "**Intra-Firm Hierarchies and Gender Gaps**" (2020), with [Aseem Patel](https://sites.google.com/view/aseempatel/home) and [Joanne Tan](https://sites.google.com/site/joanneyumintanphd/research) - [Click here](Gender_Paper.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701189)]. *R&R Labour Economics*
+"**The diffusion of knowledge: Evidence from the Jet Age**" (2020), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-    We study how changes in female representation at the top of a firm’s organisation
-    affect gender-specific outcomes across hierarchies within firms. We start by developing
-    a theoretical model of a hierarchical firms, where gender representation in top
-    organisational layers can affect gender-specific hiring and promotion probabilities at
-    lower layers. We then exploit a recent French reform that imposed gender representation
-    quotas in the boards of directors and test the model’s predictions in the data.
-    Our empirical results show that the reform was successful in reducing gender wage
-    and representation gaps at the upper layers of the firm, but not at lower firm layers.
-    A Panel VAR analysis confirms that the trickle-down effect of this policy was limited
-    and suggests that interventions targeting the managerial layer, rather than the board,
-    might have a more generalised effect across the firm.
-    </p>
-    </details>
-
-3. "**Income Tax Progressivity as a Stabilizer of Labor Income Risk**" (2020), with [Julien Pascal](https://julienpascal.github.io/) - [Click here](Paper_Taxation.pdf).
-
-    <details><summary> <i>Abstract</i> </summary>
-    <p align="justify">
-    In this article we use Italian administrative data to study the role that a progressive
-    income tax can play in redistributing cyclical risk from low to high wage workers and
-    reduce the volatility of aggregate employment. We do this by developing and estimating a frictional model of the labor market with heterogeneous workers, aggregate
-    shocks and a non-linear tax schedule. Our results show that eliminating income tax
-    progressivity in Italy while maintaining the tax revenue fixed would come at the expense of the majority of workers. The current system of marginal tax rates is effective
-    at reallocating cyclical income risk from low to high wage workers and reduces aggregate employment volatility by 18.5% compared to a counter-factual flat rate system.
-    </p>
-    </details>
-
-4. "**Friendship Networks and Political Opinions: A Natural Experiment among Future French Politicians**" (2020), with [Yann Algan](http://www.yann-algan.com/), [Quoc-Anh Do](https://sites.google.com/site/qaquocanhdo/), and [Yves Zenou](https://sites.google.com/site/yvesbzenou/). [Click here](Network_Beliefs_2020.pdf) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397092)].
-
-    <details><summary> <i>Abstract</i> </summary>
-    <p align="justify">
-    This paper shows how friendship shapes beliefs and political opinion. We make use of a unique
-    natural experiment that randomly assigns new freshmen into groups in a college that produces most
-    of France’s top politicians. We find strong, robust effects of friendship on differences in beliefs.
+This paper studies the impact of travel time on the diffusion of knowl-
+edge. We provide causal evidence by exploiting the beginning of the
+Jet Age as a quasi-natural experiment. We digitize airlines’ historical
+flight schedules and construct a novel data set of the flight network in
+the United States. Between 1951 and 1966, average travel time between
+locations more than 2,000km apart decreased 35%. We use patent cita-
+tions as a measure of knowledge diffusion. For research establishments
+located more than 2,000km apart from each other, the reduction in
+travel time increased citations by 8.1%, accounting for 38% of the ob-
+served increase in citations in this distance interval. Additionally, the
+reduction in travel time increased the diffusion of knowledge through
+multi-establishment firms. The probability of a firm having a satel-
+lite research establishment increased by 300% as consequence of the
+reduction in travel time. At the same time, a research establishment
+of a firm is 13% more likely to cite a patent from a location in which
+the firm has another research establishment, compared to a location in
+which it does not have it.
     </p>
     </details>
 
 
-<!--- ### Work in Progress
+"**Creation and Diffusion of Knowledge in the Multinational Firm**", with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/) - [Click here](Paper_Taxation.pdf).
 
-1. "**Benchmarking Markups**", with [Flavien Moreau](https://www.flavienmoreau.com/) and [Ludovic Panon](https://sites.google.com/site/ludovicpanon/home)   -->
+    <details><summary> <i>Abstract</i> </summary>
+    <p align="justify">
+    This study documents new stylized facts on where and how knowledge creation and
+diffusion take place in multinational firms and shows that differences in time zones
+between headquarters and subsidiaries matter for knowledge flows beyond the effects
+of distance. The data show that (i) knowledge creation, as measured by patents, is
+increasingly conducted in cross-border collaborative teams of inventors within multi-
+nationals, (ii) a large share of patenting activity takes place in foreign affiliates, and
+(iii) inventors have become more mobile over the last three decades. An economet-
+ric analysis shows that a higher overlap in business hours is associated with increased
+cross-border collaboration, more within-firm citations, and greater inventor mobility.
+    </p>
+    </details>
+
+
+### Work in Progress
+
+"**Trading under Uncertainty: Evidence from Myanmar's Ethnic Conflicts**"
+"**The Gender Gap in Innovation**", with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
 &nbsp;
 
-## Teaching
 
-Year | Position | Course | Institution
------|-------|--------
-2019 | TA | Labour Economics | Sciences Po
-2015; 2016; 2017; 2018 | TA | Graduate Econometrics 1 | Sciences Po
-2018; 2019 | Lecturer | [Introduction to Econometrics](https://scpoecon.github.io/ScPoEconometrics/) | Sciences Po
-2015; 2016; 2017 | TA | Macroeconomics of Development |  Sciences Po (PSIA)
-2015 | TA  | Econometrics: Evaluation of Public Policies | Sciences Po
 
-&nbsp;
-&nbsp;
-&nbsp;
