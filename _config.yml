@@ -1,12 +1,12 @@
-title: Nicolò Dalvit
-url: "https://nicolodalvit.github.io"
+title: Stefan Pauly
+url: "https://paustefa.github.io"
 baseurl: ""
 
-github_username:  nicolodalvit
+github_username:  paustefa
 
 markdown: kramdown
 
-tracking_id: UA-99337029-1
+#tracking_id: UA-99337029-1
 
 gems:
   - jekyll-seo-tag

@@ -6,15 +6,11 @@ layout: default
 
 [comment]: <>  (<img class="profile-picture" src="logo.jpg">)
 
-I am an economist at the [World Bank](https://www.worldbank.org/).
+Hi, welcome to my website! 
 
-I obtained my PhD in Economics from [Sciences Po](https://www.sciencespo.fr/department-economics/en) under the supervision of Prof. [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/).
+I am a PhD student in Economics at [Sciences Po](https://www.sciencespo.fr/department-economics/en). My main interests are in trade, spatial economics and innovation. 
 
-I am a labor and macro economist with research interests in firm dynamics and labor economics.
-
-You can download my [CV from here](CV_Dalvit.pdf).
-
-*The views expressed here are my own and do not necessarily reflect those of my employer*.
+Here is my [CV](CV_Pauly.pdf).
 
 &nbsp;
 
