@@ -20,19 +20,15 @@ Here is my [CV](CV_Pauly.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-This paper studies the impact of travel time on the diffusion of knowl-
-edge. We provide causal evidence by exploiting the beginning of the
+This paper studies the impact of travel time on the diffusion of knowledge. We provide causal evidence by exploiting the beginning of the
 Jet Age as a quasi-natural experiment. We digitize airlines’ historical
 flight schedules and construct a novel data set of the flight network in
 the United States. Between 1951 and 1966, average travel time between
-locations more than 2,000km apart decreased 35%. We use patent cita-
-tions as a measure of knowledge diffusion. For research establishments
+locations more than 2,000km apart decreased 35%. We use patent citations as a measure of knowledge diffusion. For research establishments
 located more than 2,000km apart from each other, the reduction in
-travel time increased citations by 8.1%, accounting for 38% of the ob-
-served increase in citations in this distance interval. Additionally, the
+travel time increased citations by 8.1%, accounting for 38% of the observed increase in citations in this distance interval. Additionally, the
 reduction in travel time increased the diffusion of knowledge through
-multi-establishment firms. The probability of a firm having a satel-
-lite research establishment increased by 300% as consequence of the
+multi-establishment firms. The probability of a firm having a satellite research establishment increased by 300% as consequence of the
 reduction in travel time. At the same time, a research establishment
 of a firm is 13% more likely to cite a patent from a location in which
 the firm has another research establishment, compared to a location in
