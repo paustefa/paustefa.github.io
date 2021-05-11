@@ -37,7 +37,7 @@ which it does not have it.
     </details>
 
 
-- **Creation and Diffusion of Knowledge in the Multinational Firm**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
+- **Creation and Diffusion of Knowledge in the Global Firm**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
