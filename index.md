@@ -45,10 +45,8 @@ which it does not have it.
 diffusion take place in multinational firms and shows that differences in time zones
 between headquarters and subsidiaries matter for knowledge flows beyond the effects
 of distance. The data show that (i) knowledge creation, as measured by patents, is
-increasingly conducted in cross-border collaborative teams of inventors within multi-
-nationals, (ii) a large share of patenting activity takes place in foreign affiliates, and
-(iii) inventors have become more mobile over the last three decades. An economet-
-ric analysis shows that a higher overlap in business hours is associated with increased
+increasingly conducted in cross-border collaborative teams of inventors within multinationals, (ii) a large share of patenting activity takes place in foreign affiliates, and
+(iii) inventors have become more mobile over the last three decades. An econometric analysis shows that a higher overlap in business hours is associated with increased
 cross-border collaboration, more within-firm citations, and greater inventor mobility.
     </p>
     </details>
