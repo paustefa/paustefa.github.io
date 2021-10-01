@@ -18,6 +18,8 @@ Here is my [CV](CV_Pauly.pdf).
 
 - **The Diffusion of Knowledge: Evidence from the Jet Age**, with [Fernando Stipanicic](https://fernandostipanicic.github.io/)
 
+		 Best paper award at [RIEF](https://sites.google.com/site/riefnetwork) Paris 2021
+
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
 This paper studies the impact of travel time on the diffusion and creation of knowledge. We provide causal evidence by exploiting the beginning of the Jet Age as a natural experiment. We digitize airlines' historical flight schedules and construct a novel data set of the flight network in the United States. Between 1951 and 1966, travel time between locations more than 2,000km apart decreased on average 41%. We use patent data as a measure of knowledge creation and diffusion. For research establishments located more than 2,000km apart, the reduction in travel time increased citations by 7.6%, accounting for 36.1% of the observed increase in citations in this distance interval. The decrease in travel time also led to an increase in knowledge access of each location which spurred the creation of new patents. The effect was stronger in initially less innovative locations, leading to a yearly growth rate of patenting 1.2 percentage points higher relative to more innovative locations. The predicted difference accounts for 23.5% of the convergence rate observed. We uncover one mechanism through which convergence occurred: expansion of multi-establishment firms. We find that the reduction in travel time to a firm's headquarters led to an increase in the amount of subsidiaries in other locations, with a larger relative increase of subsidiaries in initially less innovative locations.
