@@ -1,6 +1,14 @@
 @import "vars";
 
 .content {
+		a:link {
+  		color: red;
+		}
+
+		/* visited link */
+		/*a:visited {
+			color: red;
+		}*/
     a:hover {
         text-decoration: underline;
     }
