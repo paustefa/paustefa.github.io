@@ -17,8 +17,7 @@ Here is my [CV](CV_Pauly.pdf).
 ### Papers
 
 - **The Diffusion of Knowledge: Evidence from the Jet Age**, with [Fernando Stipanicic](https://fernandostipanicic.github.io/)
-
-		 Best paper award at [RIEF](https://sites.google.com/site/riefnetwork) Paris 2021
+	_Best paper award at [RIEF](https://sites.google.com/site/riefnetwork) Paris 2021_
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
