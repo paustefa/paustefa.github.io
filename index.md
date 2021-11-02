@@ -47,6 +47,8 @@ cross-border collaboration, more within-firm citations, and greater inventor mob
 
 - **The Gender Gap in Innovation**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
+- **Urban Amenities and Tourism: Evidence from TripAdvisor**, with [Vladimir Avetian](https://vladimir-avetian.github.io/)
+
 ## Policy Work
 
 - **EBRD Transition Report 2019-2020, Chapter 3: Firm-level Governance**, with [Cagatay Bircan](http://cagataybircan.com/), Gian  Piero  Cigna  and  Pavle Djuric. [[Click here]](https://2019.tr-ebrd.com/firm-level-governance/)
