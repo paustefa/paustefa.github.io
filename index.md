@@ -21,25 +21,17 @@ Here is my [CV](CV_Pauly.pdf).
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-This paper studies the impact of travel time on the diffusion and creation
-of knowledge. We provide causal evidence by exploiting the beginning of
-the Jet Age as a natural experiment. We digitize airlines’ historical flight
-schedules and construct a novel data set of the flight network in the United
-States. Between 1951 and 1966, travel time between locations more than
-2,000km apart decreased on average 41%. We use patent data as a measure of
-knowledge creation and diffusion. For research establishments located more
-than 2,000km apart, the reduction in travel time increased citations by 6.9%,
-accounting for 32.7% of the observed increase in citations in this distance
-interval. The decrease in travel time also led to an increase in knowledge
-access of each location which spurred the creation of new patents. The effect
-was stronger in initially less innovative locations, leading to a yearly growth
-rate of patenting 1.2 percentage points higher relative to more innovative
-locations. The predicted difference accounts for 21% of the convergence rate
-observed. We uncover one mechanism through which convergence occurred:
-expansion of multi-establishment firms. We find that the reduction in travel
-time to a firm’s headquarters led to an increase in the amount of subsidiaries
-in other locations, with a larger relative increase of subsidiaries in initially
-less innovative locations.    </p>
+This paper provides new causal evidence of the impact of air travel time on the
+creation and diffusion of knowledge. We exploit the beginning of the Jet Age as
+a quasi-natural experiment. We digitize airlines’ historical flight schedules and
+construct a novel data set of the flight network in the United States. Between
+1951 and 1966, travel time between locations more than 2,000 km apart decreased
+on average by 41%. The reduction in travel time explains 33% of the increase in
+knowledge diffusion as measured by patent citations. The increase in knowledge
+diffusion further caused an increase in the creation of new knowledge. The results
+provide evidence that jet airplanes led to innovation convergence across locations
+and contributed to the shift in innovation activity towards the South and the West
+of the United States.    </p>
     </details>
 
 
