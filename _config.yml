@@ -6,6 +6,7 @@ github_username:  paustefa
 
 markdown: kramdown
 
+future: true
 #tracking_id: UA-99337029-1
 
 gems:
