@@ -10,7 +10,7 @@ I am a PhD student in Economics at [Sciences Po](https://www.sciencespo.fr/depar
 
 Here is my [CV](CV_Pauly.pdf).
 
-[![name](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg)](https://scholar.google.com/citations?user=AG-9fPYAAAAJ&hl=fr).
+[![name](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg =48x48)](https://scholar.google.com/citations?user=AG-9fPYAAAAJ&hl=fr).
 
 &nbsp;
 
