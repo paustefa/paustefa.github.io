@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: firstname.lastname@sciencespo.fr
+Email: stefan [dot] pauly [at] sciencespo [dot] fr
 
 ---
 

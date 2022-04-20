@@ -10,6 +10,8 @@ I am a PhD student in Economics at [Sciences Po](https://www.sciencespo.fr/depar
 
 Here is my [CV](CV_Pauly.pdf).
 
+[![name](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg)](https://scholar.google.com/citations?user=AG-9fPYAAAAJ&hl=fr).
+
 &nbsp;
 
 ## Research
@@ -35,17 +37,12 @@ of the United States.    </p>
     </details>
 
 
-- **Creation and Diffusion of Knowledge in the Global Firm**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
+- **Call me Creation and Diffusion of Knowledge in the Global Firm**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
+	_Draft available upon request._
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-    This study documents new stylized facts on where and how knowledge creation and
-diffusion take place in multinational firms and shows that differences in time zones
-between headquarters and subsidiaries matter for knowledge flows beyond the effects
-of distance. The data show that (i) knowledge creation, as measured by patents, is
-increasingly conducted in cross-border collaborative teams of inventors within multinationals, (ii) a large share of patenting activity takes place in foreign affiliates, and
-(iii) inventors have become more mobile over the last three decades. An econometric analysis shows that a higher overlap in business hours is associated with increased
-cross-border collaboration, more within-firm citations, and greater inventor mobility.
+    This study examines drivers of knowledge creation within a multinational firm. It shows that knowledge creation, as measured by patents, is increasingly conducted in cross-border collaborative teams of inventors. The econometric analysis documents the importance of cross-border communication and monitoring costs by showing that a higher overlap in business hours is associated with increased cross-border collaboration. This effect is distinct from the effect of physical distance, which matters as well. Moreover, episodes of telecom sector liberalization (and the resulting decline in the cost of international calls) lead to an increase in cross-border collaboration, particularly when the business hour overlap between the headquarters and a subsidiary is larger. This effect is stronger for technology classes where research involves conducting lab experiments and thus more frequent interactions between inventors may be required.
     </p>
     </details>
 
