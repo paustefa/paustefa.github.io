@@ -35,7 +35,7 @@ of the United States.    </p>
     </details>
 
 
-- **Call me Creation and Diffusion of Knowledge in the Global Firm**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
+- **Call Me Maybe: Barriers to Creation and Diffusion of Knowledge in the Multinational Firm**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 	_Draft available upon request._
 
     <details><summary> <i>Abstract</i> </summary>
