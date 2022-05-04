@@ -18,7 +18,9 @@ Here are my [CV](CV_Pauly.pdf) and my [Google Scholar profile](https://scholar.g
 
 - [**The Diffusion of Knowledge: Evidence from the Jet Age**](https://fernandostipanicic.github.io/files/jmp.pdf), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)
 	
-	_Best paper award at [RIEF](https://sites.google.com/site/riefnetwork) Paris meeting 2021. Fernando's JMP._
+	_Best paper award at [RIEF](https://sites.google.com/site/riefnetwork) Paris meeting 2021._
+	_Best paper award at [3rd Workshop in Entrepreneurial Finance and Innovation](https://www.workshop-efi.com/student-workshop)._
+	
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
