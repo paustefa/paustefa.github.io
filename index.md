@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="/images/logo.jpg">
+<img class="profile-picture" src="/images/pic_website.png">
 
 Hi, welcome to my website! 
 
