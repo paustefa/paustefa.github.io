@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/images/pic_website.png" style="float:right;width:100px;height:113px;">
+<img src="/images/pic_website.png" style="float:right;width:150px;height:170px;">
 
 Hi, welcome to my website! 
 
