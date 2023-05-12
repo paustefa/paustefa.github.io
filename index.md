@@ -46,10 +46,10 @@ cross-border collaborative teams of inventors. We document the importance of cro
 border communication costs by showing that a higher overlap in business hours is
 associated with increased cross-border collaboration. This effect is distinct from the
 effect of physical distance, which matters as well. It is stronger for technology classes
-where lab experiments are involved and thus more frequent interactions may be re-
-quired. Episodes of telecommunications liberalization (and the resulting decline in the
-cost of international calls) lead to an increase in cross-border collaboration, partic-
-ularly when the business hour overlap between the headquarters and a subsidiary is
+where lab experiments are involved and thus more frequent interactions may be required. 
+Episodes of telecommunications liberalization (and the resulting decline in the
+cost of international calls) lead to an increase in cross-border collaboration, particularly 
+when the business hour overlap between the headquarters and a subsidiary is
 larger. This effect is stronger for experiment-based technology classes. Less successful
 inventors respond more than their most successful peers.
     </p>
