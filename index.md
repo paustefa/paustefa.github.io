@@ -55,7 +55,7 @@ inventors respond more than their most successful peers.
     </p>
     </details>
 
-- **Traders in Trouble on the Road to Mandalay**
+- **Traders in Trouble on the Road to Mandalay**\
 	_Draft available upon request._
 	
     <details><summary> <i>Abstract</i> </summary>
