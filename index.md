@@ -37,7 +37,7 @@ of the United States.    </p>
     </details>
 
 
-- [**Time after Time: Communication Costs and Inventor Collaboration in the Multinational Firm**](https://users.ox.ac.uk/~econ0247/Telecom.pdf), with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)\
+- [**Time after Time: Communication Costs and Inventor Collaboration in the Multinational Firm**](https://users.ox.ac.uk/~econ0247/Telecom.pdf), with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
