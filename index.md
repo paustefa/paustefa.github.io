@@ -37,23 +37,47 @@ of the United States.    </p>
     </details>
 
 
-- **Call Me Maybe: Barriers to Creation and Diffusion of Knowledge in the Multinational Firm**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)\
-	_Draft available upon request._
+- [**Time after Time: Communication Costs and Inventor Collaboration in the Multinational Firm**](https://users.ox.ac.uk/~econ0247/Telecom.pdf), with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)\
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-    This study examines drivers of knowledge creation within a multinational firm. It shows that knowledge creation, as measured by patents, is increasingly conducted in cross-border collaborative teams of inventors. The econometric analysis documents the importance of cross-border communication and monitoring costs by showing that a higher overlap in business hours is associated with increased cross-border collaboration. This effect is distinct from the effect of physical distance, which matters as well. Moreover, episodes of telecom sector liberalization (and the resulting decline in the cost of international calls) lead to an increase in cross-border collaboration, particularly when the business hour overlap between the headquarters and a subsidiary is larger. This effect is stronger for technology classes where research involves conducting lab experiments and thus more frequent interactions between inventors may be required.
+We show that knowledge creation, as measured by patents, is increasingly conducted in
+cross-border collaborative teams of inventors. We document the importance of cross-
+border communication costs by showing that a higher overlap in business hours is
+associated with increased cross-border collaboration. This effect is distinct from the
+effect of physical distance, which matters as well. It is stronger for technology classes
+where lab experiments are involved and thus more frequent interactions may be re-
+quired. Episodes of telecommunications liberalization (and the resulting decline in the
+cost of international calls) lead to an increase in cross-border collaboration, partic-
+ularly when the business hour overlap between the headquarters and a subsidiary is
+larger. This effect is stronger for experiment-based technology classes. Less successful
+inventors respond more than their most successful peers.
     </p>
     </details>
 
+- **Traders in Trouble on the Road to Mandalay**
+	_Draft available upon request._
+	
+    <details><summary> <i>Abstract</i> </summary>
+    <p align="justify">
+This paper studies the effect of uncertainty in trade costs on exporting. By combining data
+on armed conflict with trade transaction data from Myanmar, I show that conflicts close to
+highways have a significant impact on trade flows. Firm-level export transactions via a route
+becoming risky because of conflict drop by around 50%. In addition, prices for export goods
+in Yangon’s retail markets, itself far away from conflict areas, drop when conflicts put foreign
+market access in jeopardy by around 5%. This pass-through to local prices suggests that traders
+have few export alternatives and sell domestically instead. In addition, I observe that exporters
+of non-perishable goods lump transactions together, reducing the negative impact of conflict.
+Among exporters of perishable and thus riskier products, large and politically connected firms
+are the most resilient.
+    </p>
+    </details>
 
 ### Work in Progress
 
-- **Trading under Uncertainty: Evidence from Myanmar's Ethnic Conflicts**
+- **The Gender Gap in Patenting**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
-- **The Gender Gap in Innovation**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
-
-- **Urban Amenities and Tourism: Evidence from TripAdvisor**, with [Vladimir Avetian](https://vladimir-avetian.github.io/)
+- **The Shared City: How Locals and Tourists Compete for Amenities in Paris**, with [Vladimir Avetian](https://vladimir-avetian.github.io/)
 
 ## Policy Work
 
