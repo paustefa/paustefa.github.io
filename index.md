@@ -6,7 +6,7 @@ layout: default
 
 Hi, welcome to my website! 
 
-I am a PhD student in Economics at [Sciences Po](https://www.sciencespo.fr/department-economics/en) under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/). My main interests are in trade, spatial economics, development and innovation. 
+I am a PhD student in Economics at [Sciences Po](https://www.sciencespo.fr/department-economics/en) under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/). My main interests are in trade, spatial economics, development and innovation. I also work at the International Labour Organization.
 
 Here are my [CV](CV_Pauly.pdf) and my [Google Scholar profile](https://scholar.google.com/citations?user=AG-9fPYAAAAJ&hl=fr).
 
