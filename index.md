@@ -60,16 +60,17 @@ inventors respond more than their most successful peers.
 	
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
-This paper studies the effect of uncertainty in trade costs on exporting. By combining data
-on armed conflict with trade transaction data from Myanmar, I show that conflicts close to
-highways have a significant impact on trade flows. Firm-level export transactions via a route
-becoming risky because of conflict drop by around 50%. In addition, prices for export goods
-in Yangon’s retail markets, itself far away from conflict areas, drop when conflicts put foreign
-market access in jeopardy by around 5%. This pass-through to local prices suggests that traders
-have few export alternatives and sell domestically instead. In addition, I observe that exporters
-of non-perishable goods lump transactions together, reducing the negative impact of conflict.
+This paper studies the effect of uncertainty in trade costs on exporting. A large share of Myanmar's 
+exports leaves to neighbouring countries via roads crossing heavily contested territory. 
+Combining data on armed conflict with trade transaction data, I show that armed conflict close to
+these roads has a significant impact on trade flows. Firm-level export transactions via an affected route
+drop by around 50%. In addition, prices for export goods in Yangon’s retail markets, itself far away from conflict areas, drop by around 5%. 
+This pass-through to local prices suggests that, as exporting via a conflict-affected route becomes risky, 
+traders have few export alternatives and sell domestically instead. In addition, I observe that exporters
+of non-perishable goods delay transactions, reducing the negative impact of conflict.
 Among exporters of perishable and thus riskier products, large and politically connected firms
-are the most resilient.
+are the most resilient. Overall, this suggests that the risk of losing shipments induced by conflict reduces exports, skews the distribution of gains from trade towards specific firms and spills over to the domestic market.
+
     </p>
     </details>
 
