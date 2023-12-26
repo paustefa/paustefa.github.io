@@ -55,6 +55,18 @@ inventors respond more than their most successful peers.
     </p>
     </details>
 
+- **You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris**, with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524)
+	_R&R at Journal of Urban Economics_
+
+
+    <details><summary> <i>Abstract</i> </summary>
+    <p align="justify">
+Tourism in cities creates social interactions among people from distant cultures within limited space. How does the influx of tourists affect locals’ satisfaction with amenities? Using data on restaurant reviews, we construct a panel of tourist presence in Paris. Based on two unanticipated drops in tourism – the November 2015 terrorist attack and the COVID-19 pandemic – we document that tourism reduces Parisians’ satisfaction with restaurants. We find that social frictions, like xenophobia towards tourists, drive our results. As tourist numbers declined, explicit complaints about tourists in reviews decreased, while other complaints remained unaffected. Locals are least satisfied with dining among tourists from countries with weak social ties to France. Tourists are not affected by the presence of other tourists. 
+    </p>
+    </details>
+    
+
+
 - **Traders in Trouble on the Road to Mandalay**\
 	_Draft available upon request._
 	
