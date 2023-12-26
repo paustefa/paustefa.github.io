@@ -55,7 +55,7 @@ inventors respond more than their most successful peers.
     </p>
     </details>
 
-- **You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris**, with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524)
+- **You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris**, with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524)\
 	_R&R at Journal of Urban Economics_
 
 
