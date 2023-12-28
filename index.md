@@ -56,7 +56,7 @@ inventors respond more than their most successful peers.
     </details>
 
 - **You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris**, with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524)\
-	_R&R at Journal of Urban Economics_
+	_R&R at the Journal of Urban Economics_
 
 
     <details><summary> <i>Abstract</i> </summary>
@@ -90,7 +90,6 @@ are the most resilient. Overall, this suggests that the risk of losing shipments
 
 - **The Gender Gap in Patenting**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
-- **You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris**, with [Vladimir Avetian](https://vladimir-avetian.github.io/)
 
 ## Policy Work
 
