@@ -16,9 +16,8 @@ Here are my [CV](CV_Pauly.pdf) and my [Google Scholar profile](https://scholar.g
 
 ### Papers
 
-- [**The Diffusion of Knowledge: Evidence from the Jet Age**](https://fernandostipanicic.github.io/files/jmp.pdf), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)\
-	_Best paper award at [RIEF](https://sites.google.com/site/riefnetwork) Paris meeting 2021._\
-	_Best paper award at [3rd Workshop in Entrepreneurial Finance and Innovation](https://www.workshop-efi.com/student-workshop)._
+- [The Diffusion of Knowledge: Evidence from the Jet Age](https://fernandostipanicic.github.io/files/jmp.pdf), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)\
+	_Best paper awards at [RIEF 2021](https://sites.google.com/site/riefnetwork) and [WEFI](https://www.workshop-efi.com/student-workshop)._
 	
 
     <details><summary> <i>Abstract</i> </summary>
@@ -37,7 +36,7 @@ of the United States.    </p>
     </details>
 
 
-- [**Time after Time: Communication Costs and Inventor Collaboration in the Multinational Firm**](https://users.ox.ac.uk/~econ0247/Telecom.pdf), with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
+- [Time after Time: Communication Costs and Inventor Collaboration in the Multinational Firm](https://users.ox.ac.uk/~econ0247/Telecom.pdf), with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -55,7 +54,7 @@ inventors respond more than their most successful peers.
     </p>
     </details>
 
-- [**You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris**](tourism.pdf), with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524)\
+- [You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris](tourism.pdf), with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524)\
 	_R&R at the **Journal of Urban Economics**_
 
 
@@ -67,7 +66,7 @@ Tourism in cities creates social interactions among people from distant cultures
     
 
 
-- **Traders in Trouble on the Road to Mandalay**\
+- Traders in Trouble on the Road to Mandalay\
 	_Draft available upon request._
 	
     <details><summary> <i>Abstract</i> </summary>
@@ -88,14 +87,14 @@ are the most resilient. Overall, this suggests that the risk of losing shipments
 
 ### Work in Progress
 
-- **The Gender Gap in Patenting**, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
+- The Gender Gap in Patenting, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
 
 ## Policy Work
 
-- **EBRD Transition Report 2019-2020, Chapter 3: Firm-level Governance**, with [Cagatay Bircan](http://cagataybircan.com/), Gian  Piero  Cigna  and  Pavle Djuric. [[Click here]](https://2019.tr-ebrd.com/firm-level-governance/)
+- [EBRD Transition Report 2019-2020, Chapter 3: Firm-level Governance](https://2019.tr-ebrd.com/firm-level-governance/), with [Cagatay Bircan](http://cagataybircan.com/), Gian  Piero  Cigna  and  Pavle Djuric.
 
-- **Coping with Covid-19**, with [Ettore Recchi](http://www.ettorerecchi.eu/cms2/index.php?lang=en), [Emanuele Ferragina](https://www.sciencespo.fr/osc/fr/node/1459.html), Emily Helmeid, [Mirna Safi](https://www.sciencespo.fr/osc/en/node/1156.html), [Nicolas Sauger](https://www.sciencespo.fr/liepp/en/users/nicolassauger.html) and [Jen Schradie](http://schradie.com/). [[Project Page]](https://www.sciencespo.fr/osc/en/node/2232.html)
+- [Coping with Covid-19](https://www.sciencespo.fr/osc/en/node/2232.html), with [Ettore Recchi](http://www.ettorerecchi.eu/cms2/index.php?lang=en), [Emanuele Ferragina](https://www.sciencespo.fr/osc/fr/node/1459.html), Emily Helmeid, [Mirna Safi](https://www.sciencespo.fr/osc/en/node/1156.html), [Nicolas Sauger](https://www.sciencespo.fr/liepp/en/users/nicolassauger.html) and [Jen Schradie](http://schradie.com/). 
      - Lockdown for All, Hardship for Some. Insights from the First Wave of the CoCo Project [[Click here]](https://zenodo.org/record/3757870)
      - In the eye of the hurricane. French society a month into the lockdown [[Click here]](https://zenodo.org/record/3783990)
      - When life revolves around the home: Work and sociability during the lockdown [[Click here]](https://zenodo.org/record/3839312)
@@ -104,7 +103,7 @@ are the most resilient. Overall, this suggests that the risk of losing shipments
 
 ## Research Outside of Economics
 
-- **The “Eye of the Hurricane” Paradox: An Unexpected and Unequal Rise of Well-Being During the Covid-19 Lockdown in France**, with [Ettore Recchi](http://www.ettorerecchi.eu/cms2/index.php?lang=en), [Emanuele Ferragina](https://www.sciencespo.fr/osc/fr/node/1459.html), Emily Helmeid, [Mirna Safi](https://www.sciencespo.fr/osc/en/node/1156.html), [Nicolas Sauger](https://www.sciencespo.fr/liepp/en/users/nicolassauger.html) and [Jen Schradie](http://schradie.com/). [[Journal Page]](https://www.sciencedirect.com/science/article/pii/S0276562420300445?via%3Dihub)  
+- The “Eye of the Hurricane” Paradox: An Unexpected and Unequal Rise of Well-Being During the Covid-19 Lockdown in France, with [Ettore Recchi](http://www.ettorerecchi.eu/cms2/index.php?lang=en), [Emanuele Ferragina](https://www.sciencespo.fr/osc/fr/node/1459.html), Emily Helmeid, [Mirna Safi](https://www.sciencespo.fr/osc/en/node/1156.html), [Nicolas Sauger](https://www.sciencespo.fr/liepp/en/users/nicolassauger.html) and [Jen Schradie](http://schradie.com/). [[Journal Page]](https://www.sciencedirect.com/science/article/pii/S0276562420300445?via%3Dihub)  
 *Research in Social Stratification and Mobility. Vol. 68, August 2020*
 
 &nbsp;
