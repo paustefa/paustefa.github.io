@@ -10,11 +10,13 @@ I work as an economist at the [ILO](https://www.ilo.org/global/lang--en/index.ht
 
 Here are my [CV](CV_Pauly.pdf) and my [Google Scholar profile](https://scholar.google.com/citations?user=AG-9fPYAAAAJ&hl=fr).
 
+All views expressed here are my own and not those of my employer.
+
 &nbsp;
 
 ## Research
 
-### Papers
+### Trade and Innovation
 
 - [The Diffusion of Knowledge: Evidence from the Jet Age](https://fernandostipanicic.github.io/files/jmp.pdf), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)\
 	_Best paper awards at [RIEF 2021](https://sites.google.com/site/riefnetwork) and [WEFI](https://www.workshop-efi.com/student-workshop)._
@@ -54,16 +56,7 @@ inventors respond more than their most successful peers.
     </p>
     </details>
 
-- [You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris](tourism.pdf), with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524)\
-	_R&R at the **Journal of Urban Economics**_
 
-
-    <details><summary> <i>Abstract</i> </summary>
-    <p align="justify">
-Tourism in cities creates social interactions among people from distant cultures within limited space. How does the influx of tourists affect locals’ satisfaction with amenities? Using data on restaurant reviews, we construct a panel of tourist presence in Paris. Based on two unanticipated drops in tourism – the November 2015 terrorist attack and the COVID-19 pandemic – we document that tourism reduces Parisians’ satisfaction with restaurants. We find that social frictions, like xenophobia towards tourists, drive our results. As tourist numbers declined, explicit complaints about tourists in reviews decreased, while other complaints remained unaffected. Locals are least satisfied with dining among tourists from countries with weak social ties to France. Tourists are not affected by the presence of other tourists. 
-    </p>
-    </details>
-    
 
 
 - Traders in Trouble on the Road to Mandalay\
@@ -85,11 +78,22 @@ are the most resilient. Overall, this suggests that the risk of losing shipments
     </p>
     </details>
 
-### Work in Progress
-
 - The Gender Gap in Patenting, with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
 
+### Other Research
 
+- [You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris](tourism.pdf), with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524)\
+	_R&R at the **Journal of Urban Economics**_
+
+
+    <details><summary> <i>Abstract</i> </summary>
+    <p align="justify">
+Tourism in cities creates social interactions among people from distant cultures within limited space. How does the influx of tourists affect locals’ satisfaction with amenities? Using data on restaurant reviews, we construct a panel of tourist presence in Paris. Based on two unanticipated drops in tourism – the November 2015 terrorist attack and the COVID-19 pandemic – we document that tourism reduces Parisians’ satisfaction with restaurants. We find that social frictions, like xenophobia towards tourists, drive our results. As tourist numbers declined, explicit complaints about tourists in reviews decreased, while other complaints remained unaffected. Locals are least satisfied with dining among tourists from countries with weak social ties to France. Tourists are not affected by the presence of other tourists. 
+    </p>
+    </details>
+
+
+    
 ## Policy Work
 
 - [EBRD Transition Report 2019-2020, Chapter 3: Firm-level Governance](https://2019.tr-ebrd.com/firm-level-governance/), with [Cagatay Bircan](http://cagataybircan.com/), Gian  Piero  Cigna  and  Pavle Djuric.
