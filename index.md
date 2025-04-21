@@ -19,7 +19,7 @@ All views expressed here are my own and not those of my employer.
 ### Trade and Innovation
 
 - [The Diffusion of Knowledge: Evidence from the Jet Age](https://fernandostipanicic.github.io/files/PaulyStipanicic_jets_innovation.pdf), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)\
-	_Best paper awards at [RIEF 2021](https://sites.google.com/site/riefnetwork) and [WEFI](https://www.workshop-efi.com/student-workshop)._
+	_Best paper awards at [RIEF 2021](https://sites.google.com/site/riefnetwork) and [WEFI](https://www.workshop-efi.com/student-workshop)._\
 	_Submitted._
 	
 
@@ -39,7 +39,7 @@ of the United States.    </p>
     </details>
 
 
-- [Time after Time: Communication Costs and Inventor Collaboration in the Multinational Firm](https://users.ox.ac.uk/~econ0247/Telecom.pdf), with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
+- [Time after Time: Communication Costs and Inventor Collaboration in the Multinational Firm](https://users.ox.ac.uk/~econ0247/Telecom.pdf), with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)\
 	_Submitted._
 
     <details><summary> <i>Abstract</i> </summary>
