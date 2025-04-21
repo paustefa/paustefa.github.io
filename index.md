@@ -6,7 +6,7 @@ layout: default
 
 Hi, welcome to my website! 
 
-I work as an economist and policy advisor at the German Ministry for Economic Affairs and Climate Action. I obtained my PhD in Economics in 2023 from [Sciences Po](https://www.sciencespo.fr/department-economics/en) under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/home?authuser=0). My main interests are in trade, spatial economics, development and innovation. 
+I am an economist and policy advisor at the German Ministry for Economic Affairs and Climate Action. I obtained my PhD in Economics in 2023 from [Sciences Po](https://www.sciencespo.fr/department-economics/en) under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/home?authuser=0). My main interests are in trade, spatial economics, development and innovation. 
 
 Here are my [CV](CV_Pauly.pdf) and my [Google Scholar profile](https://scholar.google.com/citations?user=AG-9fPYAAAAJ&hl=fr).
 
