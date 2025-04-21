@@ -6,7 +6,7 @@ layout: default
 
 Hi, welcome to my website! 
 
-I work as an economist at the [ILO](https://www.ilo.org/global/lang--en/index.htm). I obtained my PhD in Economics in 2023 from [Sciences Po](https://www.sciencespo.fr/department-economics/en) under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/home?authuser=0). My main interests are in trade, spatial economics, development and innovation. 
+I work as an economist and policy advisor at the German Ministry for Economic Affairs and Climate Action. I obtained my PhD in Economics in 2023 from [Sciences Po](https://www.sciencespo.fr/department-economics/en) under the supervision of [Thomas Chaney](https://sites.google.com/site/thomaschaney/home?authuser=0). My main interests are in trade, spatial economics, development and innovation. 
 
 Here are my [CV](CV_Pauly.pdf) and my [Google Scholar profile](https://scholar.google.com/citations?user=AG-9fPYAAAAJ&hl=fr).
 
@@ -20,6 +20,7 @@ All views expressed here are my own and not those of my employer.
 
 - [The Diffusion of Knowledge: Evidence from the Jet Age](https://fernandostipanicic.github.io/files/PaulyStipanicic_jets_innovation.pdf), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)\
 	_Best paper awards at [RIEF 2021](https://sites.google.com/site/riefnetwork) and [WEFI](https://www.workshop-efi.com/student-workshop)._
+	_Submitted._
 	
 
     <details><summary> <i>Abstract</i> </summary>
@@ -39,6 +40,7 @@ of the United States.    </p>
 
 
 - [Time after Time: Communication Costs and Inventor Collaboration in the Multinational Firm](https://users.ox.ac.uk/~econ0247/Telecom.pdf), with [Cagatay Bircan](http://cagataybircan.com/) and [Beata Javorcik](http://users.ox.ac.uk/~econ0247/)
+	_Submitted._
 
     <details><summary> <i>Abstract</i> </summary>
     <p align="justify">
@@ -83,7 +85,7 @@ are the most resilient. Overall, this suggests that the risk of losing shipments
 ### Other Topics
 
 - [You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris](tourism.pdf), with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524)\
-	_R&R at the Journal of Urban Economics_
+	_Conditionally accepted at the Journal of Urban Economics_
 
 
     <details><summary> <i>Abstract</i> </summary>
