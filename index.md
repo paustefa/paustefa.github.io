@@ -84,8 +84,8 @@ are the most resilient. Overall, this suggests that the risk of losing shipments
 
 ### Other Topics
 
-- [You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris](tourism.pdf), with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524)\
-	_Conditionally accepted at the Journal of Urban Economics_
+- [You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris](tourism.pdf), with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524) [[Publication]](https://www.sciencedirect.com/science/article/abs/pii/S0094119025000385)\
+	_Journal of Urban Economics_
 
 
     <details><summary> <i>Abstract</i> </summary>
