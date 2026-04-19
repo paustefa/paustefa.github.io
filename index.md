@@ -14,7 +14,6 @@ All views expressed here are my own and not those of my employer.
 
 &nbsp;
 
-
 ### Working Papers
 
 - [The Diffusion of Knowledge: Evidence from the Jet Age](https://fernandostipanicic.github.io/files/PaulyStipanicic_jets_innovation.pdf), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)\
