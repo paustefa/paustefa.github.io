@@ -20,7 +20,7 @@ All views expressed here are my own and not those of my employer.
 
 - [The Diffusion of Knowledge: Evidence from the Jet Age](https://fernandostipanicic.github.io/files/PaulyStipanicic_jets_innovation.pdf), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)\
 	_Best paper awards at [RIEF 2021](https://sites.google.com/site/riefnetwork) and [WEFI](https://www.workshop-efi.com/student-workshop)._\
-	_Revise and Resubmit, **Journal of the European Economic Association**_
+	_Revise and Resubmit_, **Journal of the European Economic Association**
 	
 
     <details><summary> <i>Abstract</i> </summary>
