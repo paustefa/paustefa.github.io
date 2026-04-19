@@ -96,7 +96,7 @@ Tourism in cities creates social interactions among people from distant cultures
 
 
     
-## Policy Work
+## Policy Work / Research Outside of Economics
 
 - [EBRD Transition Report 2019-2020, Chapter 3: Firm-level Governance](https://2019.tr-ebrd.com/firm-level-governance/), with [Cagatay Bircan](http://cagataybircan.com/), Gian  Piero  Cigna  and  Pavle Djuric.
 
@@ -106,11 +106,8 @@ Tourism in cities creates social interactions among people from distant cultures
      - When life revolves around the home: Work and sociability during the lockdown [[Click here]](https://zenodo.org/record/3839312)
      - Life after lockdown: Getting back on track or charting a new course? [[Click here]](https://zenodo.org/record/3897226)
 
-
-## Research Outside of Economics
-
 - The “Eye of the Hurricane” Paradox: An Unexpected and Unequal Rise of Well-Being During the Covid-19 Lockdown in France, with [Ettore Recchi](http://www.ettorerecchi.eu/cms2/index.php?lang=en), [Emanuele Ferragina](https://www.sciencespo.fr/osc/fr/node/1459.html), Emily Helmeid, [Mirna Safi](https://www.sciencespo.fr/osc/en/node/1156.html), [Nicolas Sauger](https://www.sciencespo.fr/liepp/en/users/nicolassauger.html) and [Jen Schradie](http://schradie.com/). [[Journal Page]](https://www.sciencedirect.com/science/article/pii/S0276562420300445?via%3Dihub)  
-*Research in Social Stratification and Mobility. Vol. 68, August 2020*
+  Research in Social Stratification and Mobility (2020)
 
 &nbsp;
 
