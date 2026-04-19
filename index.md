@@ -20,7 +20,7 @@ All views expressed here are my own and not those of my employer.
 
 - [The Diffusion of Knowledge: Evidence from the Jet Age](https://fernandostipanicic.github.io/files/PaulyStipanicic_jets_innovation.pdf), with [Fernando Stipanicic](https://fernandostipanicic.github.io/)\
 	_Best paper awards at [RIEF 2021](https://sites.google.com/site/riefnetwork) and [WEFI](https://www.workshop-efi.com/student-workshop)._\
-	_R&R, Journal of the European Economic Association_
+	_Revise and Resubmit, **Journal of the European Economic Association**_
 	
 
     <details><summary> <i>Abstract</i> </summary>
@@ -85,7 +85,7 @@ are the most resilient. Overall, this suggests that the risk of losing shipments
 ### Publications
 
 - [You Can't Sit with Us: How Locals and Tourists Compete for Amenities in Paris](tourism.pdf), with [Vladimir Avetian](https://vladimir-avetian.github.io/) | [[SSRN Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4585524) [[Publication]](https://www.sciencedirect.com/science/article/abs/pii/S0094119025000385)\
-	_Journal of Urban Economics_
+**Journal of Urban Economics**
 
 
     <details><summary> <i>Abstract</i> </summary>
