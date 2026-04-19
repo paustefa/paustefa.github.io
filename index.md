@@ -14,7 +14,6 @@ All views expressed here are my own and not those of my employer.
 
 &nbsp;
 
-## Research
 
 ### Working Papers
 
@@ -96,7 +95,7 @@ Tourism in cities creates social interactions among people from distant cultures
 
 
     
-## Policy Work / Research Outside of Economics
+### Policy Work / Research Outside of Economics
 
 - [EBRD Transition Report 2019-2020, Chapter 3: Firm-level Governance](https://2019.tr-ebrd.com/firm-level-governance/), with [Cagatay Bircan](http://cagataybircan.com/), Gian  Piero  Cigna  and  Pavle Djuric.
 
