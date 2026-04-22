@@ -2,6 +2,99 @@
 ---
 @import "style";
 
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+}
+
+section {
+  margin-bottom: 0.8rem;
+}
+
+p {
+  margin-bottom: 0.6rem;
+}
+
+ul, ol {
+  margin-bottom: 0.6rem;
+  padding-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.2rem;
+}
+
+#author-name {
+  font-size: 1.1rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+}
+
+.content img {
+  padding: 1rem !important;
+}
+
+/* navbar */
+.navbar {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  padding: 0.5rem 0;
+  margin-bottom: 0;
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.navbar.container {
+  margin-bottom: 0;
+}
+
+.navbar-ul {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: flex-end;
+  gap: 0.4rem;
+  margin: 0 !important;
+  padding: 0 !important;
+  list-style: none !important;
+}
+
+.navbar-ul li {
+  margin: 0 !important;
+  padding: 0 !important;
+  list-style: none !important;
+  float: none !important;
+}
+
+.nav-list,
+.nav-sep {
+  display: inline-block !important;
+}
+
+.nav-sep {
+  opacity: 0.5;
+}
+
+.pull-left,
+.pull-right {
+  float: none !important;
+}---
+---
+@import "style";
+
 
 body {
   font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
