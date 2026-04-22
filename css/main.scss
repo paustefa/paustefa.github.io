@@ -62,7 +62,9 @@ li {
   top: 0;
   z-index: 1000;
   padding: 0.5rem 0;
-  background: white;
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(8px);
+
 }
 
 .pull-left,
@@ -85,3 +87,5 @@ li {
 .navbar {
   border-bottom: 1px solid rgba(0,0,0,0.08);
 }
+
+
