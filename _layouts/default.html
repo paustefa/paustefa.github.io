@@ -62,15 +62,16 @@
             <a id="author-name" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             <ul class="navbar-ul">
                 {% for x in site.data.nav %}
-                    {% if x.name == "Resume" %}
-                        <li class="nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
-                    {% else %}
-                        <li class="nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                    <li class="nav-list">
+                        {% if x.name == "Resume" %}
+                            <a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                        {% else %}
+                            <a href="{{ x.link }}">{{ x.name }}</a>
+                        {% endif %}
+                    </li>
+                    {% if forloop.last == false %}
+                        <li class="nav-sep">/</li>
                     {% endif %}
-                    {% if forloop.first == false %}
-                        /
-                    {% endif %}
-                        </li>
                 {% endfor %}
             </ul>
         </div>
