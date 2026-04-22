@@ -1,8 +1,5 @@
-- name: "Contact"
-  link: "contact"
-
 - name: "CV"
   link: "CV_Pauly.pdf"
 
-- name: "Home"
-  link: "https://stefanpauly.net"
+- name: "Contact"
+  link: "contact"
