@@ -50,6 +50,11 @@ li {
   letter-spacing: -0.02em;
 }
 
+.content img {
+  padding: 0.8rem;
+  border-radius: 8px;
+}
+
 /* Reduce page padding (BIG effect) */
 .container, .wrapper, main {
   padding-top: 1rem;
